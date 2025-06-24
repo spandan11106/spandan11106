@@ -17,14 +17,8 @@
 
 ### 🛠️ Projects
 
-- [**PX4 Drone Simulation**](#)  
-  Simulated drone flight using PX4 and Gazebo. Focused on MAVROS communication and sensor integration.
-
 - [**ROS2 Turtlesim Nodes**](#)  
   Custom publisher, subscriber, and service nodes for controlling turtlesim robots using ROS2.
-
-- [**Fusion 360 Bot Arm Design**](#)  
-  CAD design of a 3DOF robotic arm with mechanical constraints and servo placements.
 
 ---
 
