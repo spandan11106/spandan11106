@@ -17,9 +17,9 @@
 
 ### 🛠️ Projects
 
-- [**ROS2 Turtlesim Nodes**](#)  
-  Custom publisher, subscriber, and service nodes for controlling turtlesim robots using ROS2.
-
+- [**Turtlesim Catch Them All**](#)  
+  A fun ROS2-based project where you control a turtlesim robot to "catch" targets on the screen, demonstrating publisher/subscriber logic, custom services, launch files, and real-time control.
+  
 ---
 
 ### 📌 Currently Looking For:
