@@ -10,7 +10,7 @@
 
 - 🧠 **Robotics Software**: ROS2, PX4, Gazebo, MAVROS  
 - 📐 **Design**: Fusion 360, URDF/SDF, Mechanical CAD  
-- 💻 **Programming**: Python, C++, DSA (Codeforces: [1130](https://codeforces.com/profile/Spandan_116))  
+- 💻 **Programming**: Python, C++, DSA (Codeforces: [1245](https://codeforces.com/profile/Spandan_116))  
 - 🛠️ **Tools**: Git, Linux, VSCode, GitHub  
 
 ---
