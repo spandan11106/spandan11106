@@ -1,4 +1,4 @@
-## Hi there, I'm Spandan 👋
+## Hi there, I'm Spandan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="29px">
 
 I am a Mechanical Engineering undergraduate at the Indian Institute of Technology (IIT) Guwahati, graduating in the class of 2028. My work sits at the intersection of low-level software engineering, artificial intelligence, and physical systems. I focus on building high-performance computational tools from the ground up and applying deep learning to complex fluid mechanics. 
 
@@ -10,7 +10,16 @@ I am always open to contributions, advice, and collaborative help on my open-sou
 
 ### 🚀 What I'm Building
 
-* **GradCore:** A zero-dependency, C++17 machine learning framework built entirely from scratch. It features a custom automatic differentiation engine, a highly optimized arena memory allocator to minimize overhead, and a tensor-based architecture capable of handling up to 10 dimensions. Accelerated by OpenMP, AVX2, and FMA, the framework provides a modular API split across tensor, autograd, and neural network modules. **Currently, I am actively expanding the library by implementing 1D, 2D, and 3D Convolutional layers.**
+#### **GradCore**
+*A zero-dependency C++17 machine learning framework built entirely from scratch.*
+
+* **The Journey:** What started as a fun side project has quickly evolved into an ambitious challenge to conquer. The ultimate goal? To evolve this into a complete, standalone C++ deep learning library akin to PyTorch.
+* **Under the Hood:**
+  * Custom automatic differentiation (autograd) engine.
+  * Highly optimized arena memory allocation to minimize overhead.
+  * Tensor-based architecture capable of handling up to 6 dimensions.
+  * Hardware accelerated via OpenMP, AVX2, and FMA.
+* **Current Focus:** Actively expanding the modular API by implementing 1D, 2D, and 3D Convolutional layers.
   
 ---
 
