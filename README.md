@@ -1,21 +1,29 @@
-# 💫 About Me:
-🔭 I’m currently a 2nd year engineering student at Indian Institute of Technology, Guwahati<br>👯 I’m looking to collaborate on projects based on AIML and Mathematics<br>🌱 Currently I am exploring several fields of my interest. I am doing deep into Statistics and Probability, Machine Learning Models, Deep Learning, DSA, Competitive Programming, Web3 <br>⚡ Along with all this, I also like cooking, reading and playing chess
+## Hi there, I'm Spandan 👋
 
+I am a Mechanical Engineering undergraduate at the Indian Institute of Technology (IIT) Guwahati, graduating in the class of 2028. My work sits at the intersection of low-level software engineering, artificial intelligence, and physical systems. I focus on building high-performance computational tools from the ground up and applying deep learning to complex fluid mechanics. 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/spandan-mhapsekar-5a4b9b322/) 
+When I am not writing code or studying mathematics, you can usually find me competing on Codeforces (400+ problems solved), endlessly configuring my Hyprland window manager and Neovim setup on Arch Linux, or stepping away from the screen to try out new cooking recipes. 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=spandan11106&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=spandan11106&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spandan11106&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=spandan11106&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I am always open to contributions, advice, and collaborative help on my open-source projects!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=spandan11106&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 What I'm Building
+
+* **GradCore:** A zero-dependency, C++17 machine learning framework built entirely from scratch. It features a custom automatic differentiation engine, a highly optimized arena memory allocator to minimize overhead, and a tensor-based architecture capable of handling up to 10 dimensions. Accelerated by OpenMP, AVX2, and FMA, the framework provides a modular API split across tensor, autograd, and neural network modules. **Currently, I am actively expanding the library by implementing 1D, 2D, and 3D Convolutional layers.**
+  
+---
+
+### 🛠️ Tech Stack & Domain Expertise
+
+* **Languages:** C++, C, Python
+* **AI & Computation:** PyTorch, TensorFlow, NumPy, Pandas, Scikit-learn
+* **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, Fluid Mechanics, Solid Mechanics
+* **Workflow:** Git, Linux, Bash, LaTeX
+
+---
+
+### 📈 Let's Connect
+
+* **Email:** spandanmhapsekar@gmail.com
+* **LinkedIn:** [in/spandan-mhapsekar](https://linkedin.com/in/spandan-mhapsekar)
