@@ -34,5 +34,6 @@ I am always open to contributions, advice, and collaborative help on my open-sou
 
 ### 📈 Let's Connect
 
+* **Digital Garden:** https://spandan11106.github.io/
 * **Email:** spandanmhapsekar@gmail.com
 * **LinkedIn:** [in/spandan-mhapsekar](https://linkedin.com/in/spandan-mhapsekar)
